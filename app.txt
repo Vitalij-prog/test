@@ -5,6 +5,8 @@
 	</head>
 	<body>
 		<h1>Header</h1>
+		<h2>Header 2</h2>
 		<p>some text</p>
+		<p>another string</p>
 	</body>
 </html>
