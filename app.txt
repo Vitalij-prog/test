@@ -4,5 +4,7 @@
 		<title>App</title>
 	</head>
 	<body>
+		<h1>Header</h1>
+		<p>some text</p>
 	</body>
 </html>
